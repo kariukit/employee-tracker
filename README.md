@@ -50,13 +50,6 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 
-# 3) The gif Below is a brief preview of the walkthrough video that shows the functionality of the project:
-
-![Note Taker Demo Video](https://user-images.githubusercontent.com/108309963/201733674-c4b62a84-3ad6-4b29-bf0d-22a7743d3400.gif)
-
-# 4) The link below is the full walkthrough video that shows the full functionality of the project:
+# 3) The walkthrough video below demonstrates the functionality of the project:
 
 
-# 4) Use the link below to view the app deployment on Heroku:
-
-https://teresa-note-taker.herokuapp.com/
