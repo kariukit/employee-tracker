@@ -50,6 +50,6 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 
-# 3) The walkthrough video below demonstrates the functionality of the project:
+# 3) The link to the walkthrough video below demonstrates the functionality of the project:
 
-
+https://watch.screencastify.com/v/mm9L8RQqAblCLKllyhMP
